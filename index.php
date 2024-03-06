@@ -29,7 +29,7 @@
         <h1>Exercise #3</h1>
         <p>Check if the given string is palindrome (case sensitive)</p>
         <form action="./palindrome.php" method="POST" target="_blank">
-            <input name="word" type="text" placeholder="Type a string number">
+            <input name="word" type="text" placeholder="Type a word">
         </form>
     </section>
 </body>
